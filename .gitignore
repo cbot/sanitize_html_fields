@@ -1,0 +1,11 @@
+/sanitize_html_fields-1.0.0.gem
+/.idea
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
